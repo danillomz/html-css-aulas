@@ -1,0 +1,13 @@
+
+body {
+    background-image: linear-gradient(to left, #3e1b9e, #6F38D4);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
