@@ -12,6 +12,9 @@ html {
     font-size: 1em;
     line-height: 1.5em;
 }
+body {
+    background-color: rgb(94, 92, 91);
+}
 
 header {
     background-color: antiquewhite;
@@ -35,5 +38,15 @@ menu ul {
 menu li{
     display: inline-block;
     margin-right: 30px;
+}
+
+main {
+    background-color: white;
+    width: 700px;
+    height: 80vh;
+    margin: auto;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
